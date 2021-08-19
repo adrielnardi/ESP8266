@@ -1,6 +1,6 @@
 //Biblioteca para conexão do WiFi com o Esp8266
 #include <ESP8266WiFi.h>
-char ssid[] = "Oficial_2.4G";     //Nome da  rede
+char ssid[] = "XXXXXXX";     //Nome da  rede
 char password[] = "XXXXXXX"; //Senha da rede
 
 void setup()
