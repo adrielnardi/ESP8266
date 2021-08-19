@@ -5,7 +5,7 @@ char password[] = "XXXXXXX"; //Senha da rede
 
 void setup()
 {
-  //Inicialização da comunicação do monitor Serial e da comunicação Wifi
+  //Inicialização da comunicação do Monitor Serial e da comunicação Wifi
   Serial.begin(115200);
   Serial.println();
   WiFi.begin(ssid, password);
