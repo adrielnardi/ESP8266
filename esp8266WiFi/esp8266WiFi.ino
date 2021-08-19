@@ -14,7 +14,7 @@ void setup()
   while (WiFi.status() != WL_CONNECTED) //retorna se houve problema de conexão ou não. 
   {
     delay(500); //tempo de meio segundo e vai tentar repetir a conexão
-    Serial.print("."); //se a conexão não ofuncionar e algo tiver errado, vai mostrar “Connecting to WiFi..”.
+    Serial.print("."); //se a conexão não funcionar e algo tiver errado, vai mostrar “Connecting to WiFi..”.
   }
   Serial.println();
 
