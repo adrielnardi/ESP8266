@@ -1,4 +1,4 @@
-# Projetos Internet das Coisas
+# Projetos com ESP8266
 
 [esp8266WiFi](https://github.com/adrielnardi/IoT/tree/main/esp8266WiFi): ESP8266 conectando-se a uma rede WiFi
 
